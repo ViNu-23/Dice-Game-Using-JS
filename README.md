@@ -34,5 +34,7 @@ To run the game locally, simply clone the repository and open the `index.html` f
 Feel free to explore, modify, and enhance the code to suit your preferences or use it as a foundation for more advanced features. Enjoy the game!
 
 ---
+# Live Demo 
+https://vinu-23.github.io/Dice-Game-Using-JS/
 
 Feel free to customize this description based on any additional features or details you want to highlight in your project.

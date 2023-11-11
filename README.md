@@ -1,5 +1,9 @@
 # Dice-Game-Using-JS
-Certainly! Here's a description that you can include in your GitHub README file for your dice 2 player game:
+Certainly! Here's a description that you can include in your GitHub README file for your dice 2-player game:
+
+# Preview
+<img width="946" alt="Screenshot 2023-11-12 011055" src="https://github.com/ViNu-23/Dice-Game-Using-JS/assets/59360964/bc2d9fe7-9b4e-4676-bd43-fbefa3bc3f6d">
+<img width="219" alt="Screenshot 2023-11-12 011317" src="https://github.com/ViNu-23/Dice-Game-Using-JS/assets/59360964/05f421ab-19c6-44fc-b9cf-c9fe4a71bc0c">
 
 ## Overview
 

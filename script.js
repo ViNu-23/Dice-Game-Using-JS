@@ -17,13 +17,13 @@ const diceImg2 = `dice/${diceNumber2}`;
 const image2 = document.querySelector('.img2');
 image2.setAttribute('src',diceImg2);
 
-//result
+//winner display
 const errorDiv = document.createElement('div');
 errorDiv.className = 'winner';
 const effect = document.querySelector('.left-player')
 const effect2 = document.querySelector('.right-player')
 
-//effect
+//result
 if (randomNumber > randomNumber2) {
   errorDiv.appendChild(document.createTextNode('Player 1 Won')); 
   effect.style.backgroundColor=`#9AE6B4`;
@@ -40,7 +40,7 @@ if (randomNumber > randomNumber2) {
   effect2.style.backgroundColor=`#90CDF4`;
 }
 
-//placement
+//placing of dynamically created div
 const mainDiv = document.querySelector('.main');
 mainDiv.parentNode.insertBefore(errorDiv, mainDiv);
 
